@@ -33,5 +33,5 @@ This repository is licensed under the MIT License.
 
 ## Contact
 For questions or suggestions, please contact:
-John Johnson Ogbidi
+- **John Johnson Ogbidi
 - **Email**: johnjohnsonogbidi@gmail.com
